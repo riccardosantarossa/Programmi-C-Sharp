@@ -1,0 +1,30 @@
+C:\Users\Utente\Desktop\AnimaliStraniGrafico\AnimaliStraniGrafico\bin\Debug\AnimaliStraniGrafico.exe.config
+C:\Users\Utente\Desktop\AnimaliStraniGrafico\AnimaliStraniGrafico\bin\Debug\AnimaliStraniGrafico.exe
+C:\Users\Utente\Desktop\AnimaliStraniGrafico\AnimaliStraniGrafico\bin\Debug\AnimaliStraniGrafico.pdb
+C:\Users\Utente\Desktop\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.frmAnimali.resources
+C:\Users\Utente\Desktop\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.Properties.Resources.resources
+C:\Users\Utente\Desktop\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.exe
+C:\Users\Utente\Desktop\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.pdb
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStraniGrafico\AnimaliStraniGrafico\bin\Debug\AnimaliStraniGrafico.exe.config
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStraniGrafico\AnimaliStraniGrafico\bin\Debug\AnimaliStraniGrafico.exe
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStraniGrafico\AnimaliStraniGrafico\bin\Debug\AnimaliStraniGrafico.pdb
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.csprojAssemblyReference.cache
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.frmAnimali.resources
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.Properties.Resources.resources
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.csproj.GenerateResource.cache
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.csproj.CoreCompileInputs.cache
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.exe
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.pdb
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\AnimaliStraniGrafico\AnimaliStraniGrafico\bin\Debug\AnimaliStraniGrafico.exe.config
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\AnimaliStraniGrafico\AnimaliStraniGrafico\bin\Debug\AnimaliStraniGrafico.exe
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\AnimaliStraniGrafico\AnimaliStraniGrafico\bin\Debug\AnimaliStraniGrafico.pdb
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.frmAnimali.resources
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.Properties.Resources.resources
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.exe
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\AnimaliStraniGrafico\AnimaliStraniGrafico\obj\Debug\AnimaliStraniGrafico.pdb
