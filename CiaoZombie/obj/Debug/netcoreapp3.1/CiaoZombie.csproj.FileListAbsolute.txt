@@ -1,0 +1,13 @@
+C:\Users\Utente\Desktop\CiaoZombie\CiaoZombie\obj\Debug\netcoreapp3.1\CiaoZombie.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\CiaoZombie\CiaoZombie\obj\Debug\netcoreapp3.1\CiaoZombie.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\CiaoZombie\CiaoZombie\obj\Debug\netcoreapp3.1\CiaoZombie.AssemblyInfo.cs
+C:\Users\Utente\Desktop\CiaoZombie\CiaoZombie\obj\Debug\netcoreapp3.1\CiaoZombie.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\CiaoZombie\CiaoZombie\bin\Debug\netcoreapp3.1\CiaoZombie.exe
+C:\Users\Utente\Desktop\CiaoZombie\CiaoZombie\bin\Debug\netcoreapp3.1\CiaoZombie.deps.json
+C:\Users\Utente\Desktop\CiaoZombie\CiaoZombie\bin\Debug\netcoreapp3.1\CiaoZombie.runtimeconfig.json
+C:\Users\Utente\Desktop\CiaoZombie\CiaoZombie\bin\Debug\netcoreapp3.1\CiaoZombie.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\CiaoZombie\CiaoZombie\bin\Debug\netcoreapp3.1\CiaoZombie.dll
+C:\Users\Utente\Desktop\CiaoZombie\CiaoZombie\bin\Debug\netcoreapp3.1\CiaoZombie.pdb
+C:\Users\Utente\Desktop\CiaoZombie\CiaoZombie\obj\Debug\netcoreapp3.1\CiaoZombie.dll
+C:\Users\Utente\Desktop\CiaoZombie\CiaoZombie\obj\Debug\netcoreapp3.1\CiaoZombie.pdb
+C:\Users\Utente\Desktop\CiaoZombie\CiaoZombie\obj\Debug\netcoreapp3.1\CiaoZombie.genruntimeconfig.cache
