@@ -1,0 +1,10 @@
+C:\Users\Utente\Desktop\FIleDiTesto\FIleDiTesto\bin\Debug\FIleDiTesto.exe.config
+C:\Users\Utente\Desktop\FIleDiTesto\FIleDiTesto\bin\Debug\FIleDiTesto.exe
+C:\Users\Utente\Desktop\FIleDiTesto\FIleDiTesto\bin\Debug\FIleDiTesto.pdb
+C:\Users\Utente\Desktop\FIleDiTesto\FIleDiTesto\obj\Debug\FIleDiTesto.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\FIleDiTesto\FIleDiTesto\obj\Debug\FIleDiTesto.Form1.resources
+C:\Users\Utente\Desktop\FIleDiTesto\FIleDiTesto\obj\Debug\FIleDiTesto.Properties.Resources.resources
+C:\Users\Utente\Desktop\FIleDiTesto\FIleDiTesto\obj\Debug\FIleDiTesto.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\FIleDiTesto\FIleDiTesto\obj\Debug\FIleDiTesto.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\FIleDiTesto\FIleDiTesto\obj\Debug\FIleDiTesto.exe
+C:\Users\Utente\Desktop\FIleDiTesto\FIleDiTesto\obj\Debug\FIleDiTesto.pdb

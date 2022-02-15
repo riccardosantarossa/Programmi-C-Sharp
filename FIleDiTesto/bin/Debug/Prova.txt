@@ -1,0 +1,4 @@
+ciao a tutti
+Prova di file
+ciao a tutti
+questa [ una prova fallimentare sui file di testo
