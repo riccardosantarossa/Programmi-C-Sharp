@@ -1,0 +1,28 @@
+C:\Users\Utente\Desktop\PROGETTO INFO\Soko-ban\Soko-ban\bin\Debug\Soko-ban.exe.config
+C:\Users\Utente\Desktop\PROGETTO INFO\Soko-ban\Soko-ban\bin\Debug\Soko-ban.exe
+C:\Users\Utente\Desktop\PROGETTO INFO\Soko-ban\Soko-ban\bin\Debug\Soko-ban.pdb
+C:\Users\Utente\Desktop\PROGETTO INFO\Soko-ban\Soko-ban\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Utente\Desktop\PROGETTO INFO\Soko-ban\Soko-ban\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Utente\Desktop\PROGETTO INFO\Soko-ban\Soko-ban\obj\Debug\Soko-ban.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\PROGETTO INFO\Soko-ban\Soko-ban\obj\Debug\Soko_ban.frmLivello.resources
+C:\Users\Utente\Desktop\PROGETTO INFO\Soko-ban\Soko-ban\obj\Debug\Soko_ban.MenuGioco.resources
+C:\Users\Utente\Desktop\PROGETTO INFO\Soko-ban\Soko-ban\obj\Debug\Soko_ban.Properties.Resources.resources
+C:\Users\Utente\Desktop\PROGETTO INFO\Soko-ban\Soko-ban\obj\Debug\Soko-ban.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\PROGETTO INFO\Soko-ban\Soko-ban\obj\Debug\Soko-ban.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\PROGETTO INFO\Soko-ban\Soko-ban\obj\Debug\Soko-ban.csproj.CopyComplete
+C:\Users\Utente\Desktop\PROGETTO INFO\Soko-ban\Soko-ban\obj\Debug\Soko-ban.exe
+C:\Users\Utente\Desktop\PROGETTO INFO\Soko-ban\Soko-ban\obj\Debug\Soko-ban.pdb
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Soko-ban\Soko-ban\bin\Debug\Soko-ban.exe.config
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Soko-ban\Soko-ban\bin\Debug\Soko-ban.exe
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Soko-ban\Soko-ban\bin\Debug\Soko-ban.pdb
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Soko-ban\Soko-ban\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Soko-ban\Soko-ban\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Soko-ban\Soko-ban\obj\Debug\Soko-ban.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Soko-ban\Soko-ban\obj\Debug\Soko_ban.frmLivello.resources
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Soko-ban\Soko-ban\obj\Debug\Soko_ban.MenuGioco.resources
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Soko-ban\Soko-ban\obj\Debug\Soko_ban.Properties.Resources.resources
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Soko-ban\Soko-ban\obj\Debug\Soko-ban.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Soko-ban\Soko-ban\obj\Debug\Soko-ban.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Soko-ban\Soko-ban\obj\Debug\Soko-ban.csproj.CopyComplete
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Soko-ban\Soko-ban\obj\Debug\Soko-ban.exe
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Soko-ban\Soko-ban\obj\Debug\Soko-ban.pdb
