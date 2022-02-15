@@ -1,0 +1,10 @@
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Boscaiolo\Boscaiolo\bin\Debug\Boscaiolo.exe.config
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Boscaiolo\Boscaiolo\bin\Debug\Boscaiolo.exe
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Boscaiolo\Boscaiolo\bin\Debug\Boscaiolo.pdb
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Boscaiolo\Boscaiolo\obj\Debug\Boscaiolo.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Boscaiolo\Boscaiolo\obj\Debug\Boscaiolo.Form1.resources
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Boscaiolo\Boscaiolo\obj\Debug\Boscaiolo.Properties.Resources.resources
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Boscaiolo\Boscaiolo\obj\Debug\Boscaiolo.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Boscaiolo\Boscaiolo\obj\Debug\Boscaiolo.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Boscaiolo\Boscaiolo\obj\Debug\Boscaiolo.exe
+C:\Users\Utente\Desktop\SCUOLA\INFORMATICA\C#\Boscaiolo\Boscaiolo\obj\Debug\Boscaiolo.pdb
